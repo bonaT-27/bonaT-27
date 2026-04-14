@@ -187,7 +187,7 @@ Computer Engineer | Network Engineer | Embedded Systems & IoT Specialist | MERN 
         Team Collaboration ▰▰▰▰▰▰▰▰▰▰ 90%<br/>
         Project Management ▰▰▰▰▰▰▰▰▰▰ 85%<br/>
         Communication ▰▰▰▰▰▰▰▰▰▰ 85%<br/>
-        Innovation & Creativity ▰▰▰▰▰▰▰▰▰▰ 90%<br/>
+        Innovation & Creativity ▰▰▰▰▰▰▰▰ 90%<br/>
         Critical Thinking ▰▰▰▰▰▰▰▰▰▰ 90%
       </p>
     </td>
