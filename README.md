@@ -405,7 +405,7 @@ Computer Engineer | Network Engineer | Embedded Systems & IoT Specialist | MERN 
       </a>
      </td>
     <td align="center">
-      <a href="https://t.me/bona027">
+      <a href="https://t.me/bonita027">
         <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
       </a>
      </td>
