@@ -154,7 +154,7 @@ Full Stack Developer @ Oromia Science & Technology
         Node.js ▰▰▰▰▰▰▰▰▰▰ 80%<br/>
         Database Design ▰▰▰▰▰▰▰▰▰▰ 85%<br/>
         RESTful APIs ▰▰▰▰▰▰▰▰▰▰ 88%<br/>
-        Network Infrastructure ▰▰▰▰▰▰▰▰▰ 85%
+        Network Infrastructure ▰▰▰▰▰▰▰▰ 85%
       </p>
     </td>
     <td width="50%" valign="top">
