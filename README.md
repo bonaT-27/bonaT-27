@@ -175,7 +175,7 @@ Computer Engineer | Network Engineer | Embedded Systems & IoT Specialist | MERN 
         ASP.NET Core ▰▰▰▰▰▰▰▰▰▰ 90%<br/>
         React/MERN ▰▰▰▰▰▰▰▰▰▰ 88%<br/>
         Network Infrastructure ▰▰▰▰▰▰▰▰ 85%<br/>
-        Embedded Systems ▰▰▰▰▰▰▰▰▰▰ 85%<br/>
+        Embedded Systems ▰▰▰▰▰▰▰▰ 85%<br/>
         Database Design ▰▰▰▰▰▰▰▰▰▰ 85%<br/>
         Cybersecurity ▰▰▰▰▰▰▰▰▰▰ 80%
       </p>
