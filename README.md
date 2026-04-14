@@ -172,23 +172,23 @@ Computer Engineer | Network Engineer | Embedded Systems & IoT Specialist | MERN 
     <td width="50%" valign="top">
       <h4>💻 Technical Proficiency</h4>
       <p>
-        ASP.NET Core ▰▰▰▰▰▰▰▰▰▰ 90%<br/>
-        React/MERN ▰▰▰▰▰▰▰▰▰▰ 88%<br/>
-        Network Infrastructure ▰▰▰▰▰▰▰▰ 85%<br/>
-        Embedded Systems ▰▰▰▰▰▰▰▰ 85%<br/>
-        Database Design ▰▰▰▰▰▰▰▰▰▰ 85%<br/>
-        Cybersecurity ▰▰▰▰▰▰▰▰▰▰ 80%
+        ASP.NET Core ▰▰▰▰▰▰▰▰▰▰<br/>
+        React/MERN ▰▰▰▰▰▰▰▰▰▰<br/>
+        Network Infrastructure ▰▰▰▰▰▰▰▰<br/>
+        Embedded Systems ▰▰▰▰▰▰▰▰ <br/>
+        Database Design ▰▰▰▰▰▰▰▰▰▰ <br/>
+        Cybersecurity ▰▰▰▰▰▰▰▰▰▰ 
       </p>
     </td>
     <td width="50%" valign="top">
       <h4>🎯 Professional Strengths</h4>
       <p>
-        Problem Solving ▰▰▰▰▰▰▰▰▰▰ 95%<br/>
-        Team Collaboration ▰▰▰▰▰▰▰▰ 90%<br/>
-        Project Management ▰▰▰▰▰▰▰▰ 85%<br/>
-        Communication ▰▰▰▰▰▰▰▰▰▰ 85%<br/>
-        Innovation & Creativity ▰▰▰▰▰▰▰▰ 90%<br/>
-        Critical Thinking ▰▰▰▰▰▰▰▰▰▰ 90%
+        Problem Solving ▰▰▰▰▰▰▰▰▰▰ <br/>
+        Team Collaboration ▰▰▰▰▰▰▰▰ <br/>
+        Project Management ▰▰▰▰▰▰▰▰ <br/>
+        Communication ▰▰▰▰▰▰▰▰▰▰<br/>
+        Innovation & Creativity ▰▰▰▰▰▰▰▰ <br/>
+        Critical Thinking ▰▰▰▰▰▰▰▰▰▰
       </p>
     </td>
   </tr>
