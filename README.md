@@ -164,7 +164,7 @@ Full Stack Developer @ Oromia Science & Technology
         Team Collaboration ▰▰▰▰▰▰▰▰▰▰ 90%<br/>
         Project Management ▰▰▰▰▰▰▰▰▰▰ 85%<br/>
         Communication ▰▰▰▰▰▰▰▰▰▰ 85%<br/>
-        Agile Methodologies ▰▰▰▰▰▰▰▰▰▰ 80%<br/>
+        Agile Methodologies ▰▰▰▰▰▰▰▰ 80%<br/>
         Leadership ▰▰▰▰▰▰▰▰▰▰ 85%
       </p>
     </td>
@@ -197,15 +197,17 @@ Full Stack Developer @ Oromia Science & Technology
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
-      <h3>⚙️ IoT Dashboard Platform</h3>
-      <p><i>Real-time hardware monitoring dashboard</i></p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript" />
-      <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js" />
-      <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Status-In_Development-blue?style=flat-square" />
-    </td>
+<td width="50%" align="center">
+  <h3>🏘️ Oromia Property Management System</h3>
+  <p><i>Comprehensive property management solution for real estate</i></p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Status-In_Development-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Priority-High-FF6B6B?style=flat-square" />
+</td>
     <td width="50%" align="center">
       <h3>🛒 E-Commerce Platform</h3>
       <p><i>Full-featured online store with payment integration</i></p>
