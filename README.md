@@ -54,7 +54,7 @@ Computer Engineer | Network Engineer | Embedded Systems & IoT Specialist | MERN 
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=bonaT-27&theme=gruvbox&hide_border=true&background=00000000" width="100%"/>
     </td>
   </tr>
-</tr>
+</table>
 
 ---
 
@@ -172,22 +172,24 @@ Computer Engineer | Network Engineer | Embedded Systems & IoT Specialist | MERN 
     <td width="50%" valign="top">
       <h4>💻 Technical Proficiency</h4>
       <p>
-        ASP.NET Core ▰▰▰▰▰▰▰▰▰▰ <br/>
-        React/MERN ▰▰▰▰▰▰▰▰▰▰<br/>
-        Network Infrastructure ▰▰▰▰▰▰▰▰▰▰<br/>
-        Embedded Systems ▰▰▰▰▰▰▰▰▰▰<br/>
-        Database Design ▰▰▰▰▰▰▰▰▰▰ <br/>
-        Cybersecurity ▰▰▰▰▰▰▰▰▰▰    </p>
+        ASP.NET Core ▰▰▰▰▰▰▰▰▰▰ 90%<br/>
+        React/MERN ▰▰▰▰▰▰▰▰▰▰ 88%<br/>
+        Network Infrastructure ▰▰▰▰▰▰▰▰▰▰ 85%<br/>
+        Embedded Systems ▰▰▰▰▰▰▰▰▰▰ 85%<br/>
+        Database Design ▰▰▰▰▰▰▰▰▰▰ 85%<br/>
+        Cybersecurity ▰▰▰▰▰▰▰▰▰▰ 80%
+      </p>
     </td>
     <td width="50%" valign="top">
       <h4>🎯 Professional Strengths</h4>
       <p>
-        Problem Solving ▰▰▰▰▰▰▰▰▰▰ <br/>
-        Team Collaboration ▰▰▰▰▰▰▰▰▰▰ <br/>
-        Project Management ▰▰▰▰▰▰▰▰▰▰ <br/>
-        Communication ▰▰▰▰▰▰▰▰▰▰<br/>
-        Innovation & Creativity ▰▰▰▰▰▰▰▰▰▰ <br/>
-        Critical Thinking ▰▰▰▰▰▰▰▰▰▰     </p>
+        Problem Solving ▰▰▰▰▰▰▰▰▰▰ 95%<br/>
+        Team Collaboration ▰▰▰▰▰▰▰▰▰▰ 90%<br/>
+        Project Management ▰▰▰▰▰▰▰▰▰▰ 85%<br/>
+        Communication ▰▰▰▰▰▰▰▰▰▰ 85%<br/>
+        Innovation & Creativity ▰▰▰▰▰▰▰▰▰▰ 90%<br/>
+        Critical Thinking ▰▰▰▰▰▰▰▰▰▰ 90%
+      </p>
     </td>
   </tr>
 </table>
@@ -255,6 +257,108 @@ Computer Engineer | Network Engineer | Embedded Systems & IoT Specialist | MERN 
 
 ---
 
+### 📈 GitHub Analytics Dashboard
+
+<div align="center">
+
+<h3>📊 GitHub Statistics</h3>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=bonaT-27&show_icons=true&theme=gruvbox&hide_border=true&bg_color=00000000&count_private=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bonaT-27&theme=gruvbox&hide_border=true&background=00000000" />
+
+<br/><br/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonaT-27&theme=gruvbox&hide_border=true&bg_color=00000000&layout=compact" />
+<img width="48%" src="https://github-profile-trophy.vercel.app/?username=bonaT-27&theme=gruvbox&no-frame=true&row=2&column=3" />
+
+<br/><br/>
+
+<!-- Contribution Activity Graph -->
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=bonaT-27&theme=gruvbox&bg_color=00000000&hide_border=true&area=true" />
+
+</div>
+
+---
+
+### 📅 Contribution Activity Overview
+
+<div align="center">
+
+<h3>📊 Contribution Heatmap</h3>
+
+<!-- GitHub Contribution Graph (Heatmap) - Like the one in your screenshot -->
+<img src="https://ghchart.rshah.org/bonaT-27" alt="Bona Tamirat's GitHub Contribution Graph" width="100%" />
+
+*📊 Contribution heatmap showing activity throughout the year | Darker green = more contributions*
+
+<br/><br/>
+
+<!-- Detailed Activity Stats -->
+<table align="center" width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/📝-Total_Contributions-158-2E7D32?style=for-the-badge&logo=github" />
+      <br/>
+      <sub>Nov 10, 2024 - Present</sub>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/🔥-Current_Streak-1_day-FF9800?style=for-the-badge&logo=fire" />
+      <br/>
+      <sub>Last contribution: Apr 14, 2026</sub>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/🏆-Longest_Streak-7_days-9C27B0?style=for-the-badge&logo=calendar" />
+      <br/>
+      <sub>Mar 9 - Mar 15, 2026</sub>
+    </td>
+  </tr>
+</table>
+
+<br/><br/>
+
+<!-- Contribution Breakdown -->
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📊 Contribution Distribution</h4>
+      <ul>
+        <li>🔹 <b>Commits:</b> 142</li>
+        <li>🔹 <b>Pull Requests:</b> 8</li>
+        <li>🔹 <b>Code Reviews:</b> 5</li>
+        <li>🔹 <b>Issues Opened:</b> 3</li>
+      </ul>
+     </td>
+    <td width="50%" valign="top">
+      <h4>📁 Top Repositories Contributed To</h4>
+      <ul>
+        <li>🔹 <a href="https://github.com/bonaT-27/bonaT-27">bonaT-27/bonaT-27</a> (Profile README)</li>
+        <li>🔹 <a href="#">Oromia-Property-Management-System</a> (Coming Soon)</li>
+        <li>🔹 <a href="#">Biometric-Attendance-System</a></li>
+      </ul>
+     </td>
+  </tr>
+</table>
+
+<br/><br/>
+
+<!-- Monthly Contribution Chart -->
+<h4>📊 Monthly Contribution Trend</h4>
+
+| Month | Contributions | Activity Bar |
+|:------|:--------------|:-------------|
+| **Nov 2024** | 12 | ████░░░░░░░░░░░░ |
+| **Dec 2024** | 18 | ██████░░░░░░░░░░ |
+| **Jan 2025** | 25 | ████████░░░░░░░░ |
+| **Feb 2025** | 22 | ███████░░░░░░░░░ |
+| **Mar 2025** | 35 | ███████████░░░░░ |
+| **Apr 2025** | 46 | ██████████████░░ |
+
+*📈 Activity increasing month over month*
+
+</div>
+
+---
+
 ### 📜 Licenses & Certifications
 
 <div align="center">
@@ -272,7 +376,7 @@ Computer Engineer | Network Engineer | Embedded Systems & IoT Specialist | MERN 
         <li>🔹 Introduction to Threat Landscape 3.0 (Oct 2025)</li>
         <li>🔹 IGNITE Program: Cybersecurity Course (Nov 2024)</li>
       </ul>
-    </td>
+     </td>
     <td width="33%" valign="top">
       <h4>🌐 Networking</h4>
       <ul>
@@ -287,7 +391,7 @@ Computer Engineer | Network Engineer | Embedded Systems & IoT Specialist | MERN 
       <ul>
         <li>🔹 Electrical Installation - Don Bosco TVET (Sep 2024)</li>
       </ul>
-    </td>
+     </td>
     <td width="33%" valign="top">
       <h4>📱 Development & Soft Skills</h4>
       <ul>
@@ -299,7 +403,7 @@ Computer Engineer | Network Engineer | Embedded Systems & IoT Specialist | MERN 
         <li>🔹 Zonal Creative Works Exhibition (Jun 2025)</li>
       </ul>
      </td>
-   </tr>
+  </tr>
 </table>
 
 </div>
@@ -328,31 +432,8 @@ Computer Engineer | Network Engineer | Embedded Systems & IoT Specialist | MERN 
       <br/>
       Active contribution to technology innovation and digital Ethiopia discussions
      </td>
-   </tr>
+  </tr>
 </table>
-
----
-
-### 📈 GitHub Analytics Dashboard
-
-<div align="center">
-
-<h3>📊 GitHub Statistics</h3>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=bonaT-27&show_icons=true&theme=gruvbox&hide_border=true&bg_color=00000000&count_private=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bonaT-27&theme=gruvbox&hide_border=true&background=00000000" />
-
-<br/><br/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonaT-27&theme=gruvbox&hide_border=true&bg_color=00000000&layout=compact" />
-<img width="48%" src="https://github-profile-trophy.vercel.app/?username=bonaT-27&theme=gruvbox&no-frame=true&row=2&column=3" />
-
-<br/><br/>
-
-<!-- Contribution Activity Graph -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=bonaT-27&theme=gruvbox&bg_color=00000000&hide_border=true&area=true" />
-
-</div>
 
 ---
 
@@ -360,7 +441,7 @@ Computer Engineer | Network Engineer | Embedded Systems & IoT Specialist | MERN 
 
 <table align="center" width="100%">
   <tr>
-    <td>
+    <tr>
       <ul>
         <li><b>Full Stack Developer</b> @ Oromia Science & Technology (Current)<br/>
         <i>Building enterprise web applications using .NET Core, React, and microservices architecture</i></li>
@@ -370,7 +451,7 @@ Computer Engineer | Network Engineer | Embedded Systems & IoT Specialist | MERN 
         <i>Assisted in enterprise network design and implementation</i></li>
       </ul>
      </td>
-   </tr>
+  </tr>
 </table>
 
 ---
@@ -394,7 +475,7 @@ Computer Engineer | Network Engineer | Embedded Systems & IoT Specialist | MERN 
     <td align="center">
       <img src="https://img.shields.io/badge/Location-Addis_Ababa,_Ethiopia-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white" />
      </td>
-   </tr>
+  </tr>
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/Phone-+251_915_905_050-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -405,11 +486,11 @@ Computer Engineer | Network Engineer | Embedded Systems & IoT Specialist | MERN 
       </a>
      </td>
     <td align="center">
-      <a href="https://t.me/bonita027">
+      <a href="https://t.me/bona027">
         <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
       </a>
      </td>
-   </tr>
+  </tr>
 </table>
 
 <br/>
