@@ -349,6 +349,7 @@ Computer Engineer | Network Engineer | Embedded Systems & IoT Specialist | MERN 
 
 <br/><br/>
 
+<!-- Contribution Activity Graph -->
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=bonaT-27&theme=gruvbox&bg_color=00000000&hide_border=true&area=true" />
 
 </div>
