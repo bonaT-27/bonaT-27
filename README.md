@@ -199,14 +199,21 @@ Full Stack Developer @ Oromia Science & Technology
   <tr>
 <td width="50%" align="center">
   <h3>🏘️ Oromia Property Management System</h3>
-  <p><i>Comprehensive property management solution for real estate</i></p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css" />
+  <p><i>Enterprise property management solution with microservices architecture</i></p>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Keycloak-4C9A9A?style=flat-square&logo=keycloak&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jaeger-66C0A4?style=flat-square&logo=jaeger&logoColor=white" />
   <br/><br/>
   <img src="https://img.shields.io/badge/Status-In_Development-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Priority-High-FF6B6B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Architecture-Microservices-9C27B0?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cloud_Ready-2E7D32?style=flat-square" />
 </td>
     <td width="50%" align="center">
       <h3>🛒 E-Commerce Platform</h3>
