@@ -388,7 +388,7 @@ Computer Engineer | Network Engineer | Embedded Systems & IoT Specialist | MERN 
       </a>
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/in/bona-tamirat-801b162bb/">
+      <a href="www.linkedin.com/in/bona-tamirat-731296387">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
     </td>
@@ -406,7 +406,7 @@ Computer Engineer | Network Engineer | Embedded Systems & IoT Specialist | MERN 
       </a>
     </td>
     <td align="center">
-      <a href="https://t.me/bonaT27">
+      <a href="https://t.me/bona027">
         <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
       </a>
     </td>
