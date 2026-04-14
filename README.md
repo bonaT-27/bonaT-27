@@ -184,7 +184,7 @@ Computer Engineer | Network Engineer | Embedded Systems & IoT Specialist | MERN 
       <h4>🎯 Professional Strengths</h4>
       <p>
         Problem Solving ▰▰▰▰▰▰▰▰▰▰ 95%<br/>
-        Team Collaboration ▰▰▰▰▰▰▰▰▰▰ 90%<br/>
+        Team Collaboration ▰▰▰▰▰▰▰▰ 90%<br/>
         Project Management ▰▰▰▰▰▰▰▰ 85%<br/>
         Communication ▰▰▰▰▰▰▰▰▰▰ 85%<br/>
         Innovation & Creativity ▰▰▰▰▰▰▰▰ 90%<br/>
