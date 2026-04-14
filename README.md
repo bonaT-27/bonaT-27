@@ -54,7 +54,7 @@ Computer Engineer | Network Engineer | Embedded Systems & IoT Specialist | MERN 
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=bonaT-27&theme=gruvbox&hide_border=true&background=00000000" width="100%"/>
     </td>
   </tr>
-</table>
+</tr>
 
 ---
 
@@ -172,23 +172,23 @@ Computer Engineer | Network Engineer | Embedded Systems & IoT Specialist | MERN 
     <td width="50%" valign="top">
       <h4>💻 Technical Proficiency</h4>
       <p>
-        ASP.NET Core ▰▰▰▰▰▰▰▰▰▰<br/>
-        React/MERN ▰▰▰▰▰▰▰▰▰▰<br/>
-        Network Infrastructure ▰▰▰▰▰▰▰▰<br/>
-        Embedded Systems ▰▰▰▰▰▰▰▰ <br/>
-        Database Design ▰▰▰▰▰▰▰▰▰▰ <br/>
-        Cybersecurity ▰▰▰▰▰▰▰▰▰▰ 
+        ASP.NET Core ▰▰▰▰▰▰▰▰▰▰ 90%<br/>
+        React/MERN ▰▰▰▰▰▰▰▰▰▰ 88%<br/>
+        Network Infrastructure ▰▰▰▰▰▰▰▰▰▰ 85%<br/>
+        Embedded Systems ▰▰▰▰▰▰▰▰▰▰ 85%<br/>
+        Database Design ▰▰▰▰▰▰▰▰▰▰ 85%<br/>
+        Cybersecurity ▰▰▰▰▰▰▰▰▰▰ 80%
       </p>
     </td>
     <td width="50%" valign="top">
       <h4>🎯 Professional Strengths</h4>
       <p>
-        Problem Solving ▰▰▰▰▰▰▰▰▰▰ <br/>
-        Team Collaboration ▰▰▰▰▰▰▰▰ <br/>
-        Project Management ▰▰▰▰▰▰▰▰ <br/>
-        Communication ▰▰▰▰▰▰▰▰▰▰<br/>
-        Innovation & Creativity ▰▰▰▰▰▰▰▰ <br/>
-        Critical Thinking ▰▰▰▰▰▰▰▰▰▰
+        Problem Solving ▰▰▰▰▰▰▰▰▰▰ 95%<br/>
+        Team Collaboration ▰▰▰▰▰▰▰▰▰▰ 90%<br/>
+        Project Management ▰▰▰▰▰▰▰▰▰▰ 85%<br/>
+        Communication ▰▰▰▰▰▰▰▰▰▰ 85%<br/>
+        Innovation & Creativity ▰▰▰▰▰▰▰▰▰▰ 90%<br/>
+        Critical Thinking ▰▰▰▰▰▰▰▰▰▰ 90%
       </p>
     </td>
   </tr>
@@ -300,8 +300,8 @@ Computer Engineer | Network Engineer | Embedded Systems & IoT Specialist | MERN 
         <li>🔹 Technology Transfer Award - Biometric System (Jun 2025)</li>
         <li>🔹 Zonal Creative Works Exhibition (Jun 2025)</li>
       </ul>
-    </td>
-  </tr>
+     </td>
+   </tr>
 </table>
 
 </div>
@@ -320,7 +320,7 @@ Computer Engineer | Network Engineer | Embedded Systems & IoT Specialist | MERN 
       <i>Dilla University - 1st Technology Symposium (Jun 2025)</i>
       <br/>
       Recognized for outstanding achievement in transferring "Biometric Attendance Verification with Fingerprint" technology
-    </td>
+     </td>
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/🏆-Certificate_of_Participation-FFD700?style=for-the-badge" />
       <br/>
@@ -329,9 +329,9 @@ Computer Engineer | Network Engineer | Embedded Systems & IoT Specialist | MERN 
       <i>Gedeo Zone Science & IT Department (Jun 2025)</i>
       <br/>
       Active contribution to technology innovation and digital Ethiopia discussions
-    </td>
-  </tr>
-</tr>
+     </td>
+   </tr>
+</table>
 
 ---
 
@@ -370,8 +370,8 @@ Computer Engineer | Network Engineer | Embedded Systems & IoT Specialist | MERN 
         <li><b>Network Infrastructure Intern</b> (2024)<br/>
         <i>Assisted in enterprise network design and implementation</i></li>
       </ul>
-    </td>
-  </tr>
+     </td>
+   </tr>
 </table>
 
 ---
@@ -386,32 +386,32 @@ Computer Engineer | Network Engineer | Embedded Systems & IoT Specialist | MERN 
       <a href="mailto:bonatamirat01@gmail.com">
         <img src="https://img.shields.io/badge/Email-bonatamirat01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
       </a>
-    </td>
+     </td>
     <td align="center">
-      <a href="www.linkedin.com/in/bona-tamirat-731296387">
+      <a href="https://www.linkedin.com/in/bona-tamirat-731296387">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
-    </td>
+     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Location-Addis_Ababa,_Ethiopia-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white" />
-    </td>
-  </tr>
+     </td>
+   </tr>
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/Phone-+251_915_905_050-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-    </td>
+     </td>
     <td align="center">
       <a href="https://github.com/bonaT-27">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
       </a>
-    </td>
+     </td>
     <td align="center">
       <a href="https://t.me/bona027">
         <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
       </a>
-    </td>
-  </tr>
-</tr>
+     </td>
+   </tr>
+</table>
 
 <br/>
 
@@ -480,9 +480,6 @@ Computer Engineer | Network Engineer | Embedded Systems & IoT Specialist | MERN 
 ---
 
 <div align="center">
-  <br/>
-  <sub><b>Built with ❤️ using GitHub Profile README</b></sub>
-  <br/>
   <sub>© 2025 Bona Tamirat Alemayehu | All Rights Reserved</sub>
   <br/>
   <sub>Computer Engineer | Network Engineer | Embedded & IoT Specialist | MERN & .NET Developer</sub>
