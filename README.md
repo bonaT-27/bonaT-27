@@ -545,7 +545,6 @@ Computer Engineer | Network Engineer | Embedded Systems & IoT Specialist | MERN 
 
 ---
 
-### 🐍 Contribution Snake
 
 ---
 
