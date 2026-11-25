@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1b4c,50:1a237e,100:00b4d8&height=260&section=header&text=Bona%20Tamirat&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Network%20Engineer%20%E2%80%A2%20IoT%20%26%20Embedded&descSize=20&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1b4c,50:1a237e,100:00b4d8&height=260&section=header&text=Bona%20Tamirat&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Network%20Engineer%20%E2%80%A2%20IoT%20and%20Embedded&descSize=20&descAlignY=60&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00B4D8&center=true&vCenter=true&width=720&height=50&lines=Building+scalable+.NET+%26+React+systems;Bridging+hardware+and+software;Securing+networks%2C+one+packet+at+a+time;Turning+ideas+into+working+products" alt="Typing SVG" /></a>
 
@@ -56,7 +56,7 @@ I'm a **Computer Engineer** and **Network Engineer** who builds enterprise-grade
 <div align="center">
 
 **Backend**<br/>
-<img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,express,python&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,express,python,flask&theme=dark" /><br/><br/>
 **Frontend**<br/>
 <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css&theme=dark" /><br/><br/>
 **Data & Messaging**<br/>
@@ -106,7 +106,7 @@ flowchart LR
 
 Fingerprint-based attendance verification with a web dashboard for tracking and analytics. My final-year project.
 
-`Embedded C` `Arduino` `Python`
+`Embedded C` `Arduino` `Python` `Flask`
 
 </td>
 <td width="50%" valign="top">
