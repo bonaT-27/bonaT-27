@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1b4c,50:1a237e,100:00b4d8&height=200&section=header&text=Bona%20Tamirat%20Alemayehu&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20Network%20Engineer%20%E2%80%A2%20IoT%20and%20Embedded&descSize=20&descAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b4c,50:1a237e,100:00b4d8&height=220&section=header&text=Bona%20Tamirat%20Alemayehu&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Network%20Engineer%20%E2%80%A2%20IoT%20and%20Embedded&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00B4D8&center=true&vCenter=true&width=900&height=50&lines=Building+scalable+.NET+%26+React+systems;Bridging+hardware+and+software;Securing+networks%2C+one+packet+at+a+time;Turning+ideas+into+working+products" alt="Typing SVG" /></a>
 
